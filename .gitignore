@@ -17,3 +17,6 @@ node_modules
 package-lock.json
 
 _posts/2021-12-14-test.md
+Gemfile.lock
+_layouts/post.html.org
+_layouts/post.html.utterance
