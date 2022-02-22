@@ -26,7 +26,7 @@ description: >-                        # used by seo meta and the atom feed
   갤럭시 배틀쉽, galaxy battleship
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://galaxy-battleship.github.io/'
+url: 'https://galaxy-battleship.github.io'
 
 github:
   username: galaxy-battleship             # change to your github username
