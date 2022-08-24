@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/posts/kind-of-radar/</loc>
+      
+        <lastmod>2022-01-26T14:15:33+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/posts/%ED%95%A8%EC%9E%A5/</loc>
+      
+        <lastmod>2021-12-16T00:00:00+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/posts/%ED%95%A8%EB%8C%80%EA%B5%AC%EC%84%B1/</loc>
+      
+        <lastmod>2021-12-15T12:15:33+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/posts/%EB%B6%84%EC%97%B4%EC%A0%95%EB%A5%98%EC%9E%A5-%EC%95%84%EC%9D%B4%ED%85%9C-%EB%AA%A9%EB%A1%9D/</loc>
+      
+        <lastmod>2021-12-09T00:00:00+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/404.html</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/app.js</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/assets/img/favicons/browserconfig.xml</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/feed.xml</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/robots.txt</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/assets/js/data/search.json</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/assets/img/favicons/site.webmanifest</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/sitemap.xml</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/sitemap.xml.org</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/assets/css/style.css</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/sw.js</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/assets/js/data/swcache.js</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/norobots/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/assets/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/posts/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/redirects.json</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/%EC%9C%A0%EB%9E%91%EC%8A%A4%ED%83%80-%EC%8B%9C%EC%A6%8C/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/%EB%B6%84%EC%97%B4%EC%9E%A5%EC%B9%98/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/gn/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/sn/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/tn/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/%ED%95%A8%EB%8C%80%EA%B5%AC%EC%84%B1/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/%ED%95%A8%EC%9E%A5/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/%EC%97%AC%ED%95%A8%EC%9E%A5/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/%EC%97%AC%EC%9E%90%ED%95%A8%EC%9E%A5/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/%EB%A0%88%EC%9D%B4%EB%8D%94/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/tags/radar/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/categories/%EB%B6%84%EC%97%B4%EC%A0%95%EB%A5%98%EC%9E%A5/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/categories/%ED%95%A8%EB%8C%80/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/categories/%ED%95%A8%EC%9E%A5/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>https://galaxy-battleship.github.io/categories/%EB%A0%88%EC%9D%B4%EB%8D%94/</loc>
+      
+        <lastmod>2022-08-24T17:07:09+09:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+</urlset>
