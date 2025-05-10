@@ -4,14 +4,9 @@ date: 2022-01-26 14:15:33 +0900
 categories: [레이더]
 tags: [레이더, radar]
 description: 갤럭시배틀쉽에서 함선에 설치하는 레이더의 종류와 효과, 빠르게 뽑기 위한 방법등을 설명합니다
-toc: true
+toc: false
 math: true
 mermaid: true
-#image:
-#  src: /assets/img/utterance-comment.jpg
-#  width: 1000   # in pixels
-#  height: 400   # in pixels
-#  alt: image alternative text
 ---
 
 > 레이더는 별로 등급을 매기지 않고 색깔로 표현합니다. 총 4가지 색깔의 레이더가 존재합니다.(2022.02.04 기준)\
