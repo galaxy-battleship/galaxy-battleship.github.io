@@ -14,9 +14,9 @@ mermaid: true
 #  alt: image alternative text
 ---
 
-> Formation 1을 우선으로 합니다. 그러나 해당 영역을 우리가 선점하지 못하였을 경우 formation 2로 전환합니다.
-> Formation 1を優先しますが、エリアを先取りしない場合はFormation 2に切り替えます。
-> Prioritize Formation 1, but if we do not preoccupy the area, we switch to formation 2.
+> Formation 1을 우선으로 합니다. 그러나 해당 영역을 우리가 선점하지 못하였을 경우 formation 2로 전환합니다.<BR>
+> Formation 1を優先しますが、エリアを先取りしない場合はFormation 2に切り替えます。<BR>
+> Prioritize Formation 1, but if we do not preoccupy the area, we switch to formation 2.<BR>
 
 ## formation 1
 ![2025-05-12 formation](/assets/img/formation1-2025-05-12-1.png "2025-05-12 formation")
