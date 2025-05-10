@@ -19,8 +19,8 @@ mermaid: true
 > Prioritize Formation 1, but if we do not preoccupy the area, we switch to formation 2.
 
 ## formation 1
-![2025-05-12 formation](/assets/img/formation1-20250512-1.jpg "2025-05-12 formation")
+![2025-05-12 formation](/assets/img/formation1-20250512-1.png "2025-05-12 formation")
 
 ## formation 2
-![2025-05-12 formation](/assets/img/formation2-20250512-1.jpg "2025-05-12 formation")
+![2025-05-12 formation](/assets/img/formation2-20250512-1.png "2025-05-12 formation")
 
