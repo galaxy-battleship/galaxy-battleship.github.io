@@ -1,8 +1,8 @@
 ---
-title: 2025-05-12~2025-06-23 시즌 연맹 포매이션
+title: 2025-05-12 시즌 연맹 포매이션
 date: 2025-05-12 22:15:33 +0900
 categories: [포매이션]
-tags: [포매이션,연맹배치,formation]
+tags: [포매이션, 연맹배치, formation]
 description: 다음 시즌의 연맹 포매이션을 소개합니다.
 toc: true
 math: true
