@@ -1,5 +1,0 @@
-User-agent: *
-
-Allow: /
-
-Sitemap: https://galaxy-battleship.github.io/sitemap.xml
