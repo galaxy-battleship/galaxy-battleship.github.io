@@ -2,8 +2,6 @@
 
 source "https://rubygems.org"
 
-ruby '3.4.4'
-
 gem "jekyll", "~> 4.4", ">= 4.4.1"
 gem "jekyll-theme-chirpy", "~> 7.3", ">= 7.3.0"
 
