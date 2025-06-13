@@ -4,7 +4,7 @@ date: 2025-05-12 22:15:33 +0900
 categories: [포매이션]
 tags: [포매이션, 연맹배치, formation]
 description: 다음 시즌의 연맹 포매이션을 소개합니다.
-toc: true
+toc: false
 math: true
 mermaid: true
 ---
